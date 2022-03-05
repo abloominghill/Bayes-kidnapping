@@ -17,9 +17,9 @@ Este misterio se resolvió a los largo del curso **"Introduction to Data Science
 
 ---
 
-### 🔍 Conclusiones del proyecto
+### 🔍 Informe del caso
 
-- La primer pista que se tenía era u a nota de rescate que se encontró en la escena, se construyó una dataframe 'ransom.csv' que contenía la frecuencia con que aparecía las letras de la A a la Z en la nota.
+- La primer pista que se tenía era una nota de rescate que se encontró en la escena, se construyó una dataframe 'ransom.csv' que contenía la frecuencia con que aparecía las letras de la A a la Z en la nota.
 - Una segunda pista fue un testigó que vió una camioneta verde en la escena del crimen, pero sólo vió las tres primeras letras, por lo que se contruyó una variable donde las cuatro letras faltantes se ingresaron como asterisco(*) para ingresarla en el sistema de búsqueda de placas. Con esto se logró tener una lista de cuatro sospechosos:
   - Fred Frequentist
   - Ronald Aylmer Fisher
