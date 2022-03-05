@@ -13,7 +13,7 @@ Usaremos técnicas como análisis químico y frecuencia de letras para elegir al
 
 Este misterio se resolvió a los largo del curso **"Introduction to Data Science in Python"**.
 
-[Ver notebook]()
+[Ver notebook](https://github.com/abloominghill/Bayes-kidnapping/blob/ee7a3b01238b77ef64e7f4c064106bdee1340cb2/archivos/Introduction%20to%20Data%20Science%20in%20Python.ipynb)
 
 ---
 
