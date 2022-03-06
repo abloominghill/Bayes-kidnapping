@@ -5,7 +5,7 @@
 
 Alguien a secuestrado a Bayes, el Golden Retriever ganador de premios de DataCamp. 
 
-El secuestrador ha dejado pistas que podemos analizar: una nota de rescate, y la versión de un testigo que vió una camioneta en la escena del crimen. 
+El secuestrador ha dejado pistas que podemos analizar: una nota de rescate, la versión de un testigo y una huella a en la escena del crimen. 
 
 A lo largo de la investigación se irán recolectando más datos para realizar análisis que nos permitan ir reduciendo la lista de sospechosos.
 
